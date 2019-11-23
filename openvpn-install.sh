@@ -43,13 +43,13 @@ if [[ -e /etc/debian_version ]]; then
 echo ""
 echo ""
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
-echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY PeeRaPoN         #    "
+echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY SUNSHINE VPN    #    "
 echo -e "\033[33;1m #      -----------About Us------------         #    "
 echo -e "\033[31;1m #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "\033[0;32m #       Truemoney Wallet : 095-215-5825        #    "
+echo -e "\033[0;32m #       Truemoney Wallet : 065-320-0028        #    "
 echo -e "\033[35;1m #               { VPN / SSH }                  #    "
-echo -e "\033[0;32m #         BY : PeeRaPoN MueAnGChaN               #    "
-echo -e "\033[0;32m #    FB : https://m.me/Amkoonp       #    "
+echo -e "\033[0;32m #         BY : Kasikorn Pardee                 #    "
+echo -e "\033[0;32m #    FB : https://m.me/kasikorn03              #    "
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
 echo -e "\033[34;1m  ไอพีเซิฟ: $IP "
 echo ""
@@ -66,13 +66,13 @@ else
 echo ""
 echo ""
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
-echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY PeeRaPoN         #    "
+echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY SUNSHINE VPN    #    "
 echo -e "\033[33;1m #      -----------About Us------------         #    "
 echo -e "\033[31;1m #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "\033[0;32m #       Truemoney Wallet : 095-215-5825        #    "
+echo -e "\033[0;32m #       Truemoney Wallet : 065-320-0028        #    "
 echo -e "\033[35;1m #               { VPN / SSH }                  #    "
-echo -e "\033[0;32m #         BY : PeeRaPoN MueAnGChaN               #    "
-echo -e "\033[0;32m #    FB : https://m.me/Amkoonp       #    "
+echo -e "\033[0;32m #         BY : Kasikorn Pardee                 #    "
+echo -e "\033[0;32m #    FB : https://m.me/kasikorn03              #    "
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
 echo -e "\033[34;1m  ไอพีเซิฟ: $IP "
 echo ""
@@ -91,13 +91,13 @@ fi
 echo ""
 echo ""
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
-echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY PeeRaPoN         #    "
+echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY SUNSHINE VPN    #    "
 echo -e "\033[33;1m #      -----------About Us------------         #    "
 echo -e "\033[31;1m #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "\033[0;32m #       Truemoney Wallet : 095-215-5825        #    "
+echo -e "\033[0;32m #       Truemoney Wallet : 065-320-0028        #    "
 echo -e "\033[35;1m #               { VPN / SSH }                  #    "
-echo -e "\033[0;32m #         BY : PeeRaPoN MueAnGChaN               #    "
-echo -e "\033[0;32m #    FB : https://m.me/Amkoonp       #    "
+echo -e "\033[0;32m #         BY : Kasikorn Pardee                 #    "
+echo -e "\033[0;32m #    FB : https://m.me/kasikorn03              #    "
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
 echo -e "\033[34;1m  ไอพีเซิฟ: $IP "
 echo ""
@@ -105,7 +105,7 @@ echo ""
 
 echo ""
     read -p "password: " passwds
-wget -q -O /usr/bin/pass https://github.com/xovpn/Auto-VPN/blob/master/PassKey.txt
+wget -q -O /usr/bin/pass https://raw.githubusercontent.com/SUNSHINE-VPN/SCRIPT/master/PassKey.txt
 if ! grep -w -q $passwds /usr/bin/pass; then
 clear
 echo ""
@@ -121,7 +121,7 @@ exit
 cd
 echo -e "\033[35;1m
 ----------------------------------------------
-[√] ระบบสคริป  : PeeRaPoN MueAnGChaN 
+[√] ระบบสคริป  : SUNSHINE VPN 
 [√] กรุณารอสักครู่ .....
 [√] Loading .....
 ----------------------------------------------
@@ -204,13 +204,13 @@ else
 echo ""
 echo ""
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
-echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY PeeRaPoN         #    "
+echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY SUNSHINE VPN    #    "
 echo -e "\033[33;1m #      -----------About Us------------         #    "
 echo -e "\033[31;1m #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "\033[0;32m #       Truemoney Wallet : 095-215-5825        #    "
+echo -e "\033[0;32m #       Truemoney Wallet : 065-320-0028        #    "
 echo -e "\033[35;1m #               { VPN / SSH }                  #    "
-echo -e "\033[0;32m #         BY : PeeRaPoN MueAnGChaN               #    "
-echo -e "\033[0;32m #    FB : https://m.me/Amkoonp       #    "
+echo -e "\033[0;32m #         BY : Kasikorn Pardee                 #    "
+echo -e "\033[0;32m #    FB : https://m.me/kasikorn03              #    "
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
 echo -e "\033[34;1m  ไอพีเซิฟ: $IP "
 echo ""
@@ -219,7 +219,7 @@ echo ""
 cd
 echo -e "\033[35;1m
 ----------------------------------------------
-[√] ระบบสคริป  : PeeRaPoN MueAnGChaN 
+[√] ระบบสคริป  : SUNSHINE VPN 
 [√] กรุณารอสักครู่ .....
 [√] Loading .....
 ----------------------------------------------
@@ -601,7 +601,7 @@ END
 fi
 
 
-	wget -O /usr/local/bin/menu "https://raw.githubusercontent.com/MyGatherBk/MyAuto/master/Menu"
+	wget -O /usr/local/bin/menu "https://raw.githubusercontent.com/SUNSHINE-VPN/SCRIPT/master/Menu"
 	chmod +x /usr/local/bin/menu
 	wget -O /usr/local/bin/Auto-Delete-Client "https://raw.githubusercontent.com/MyGatherBk/PURE/master/Auto-Delete-Client"
 	chmod +x /usr/local/bin/Auto-Delete-Client 
@@ -621,13 +621,13 @@ fi
 echo ""
 echo ""
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
-echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY PeeRaPoN         #    "
+echo -e "\033[36;1m #        AUTOSCRIPT CREATED BY SUNSHINE VPN    #    "
 echo -e "\033[33;1m #      -----------About Us------------         #    "
 echo -e "\033[31;1m #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-18     #    "
-echo -e "\033[0;32m #       Truemoney Wallet : 095-215-5825        #    "
+echo -e "\033[0;32m #       Truemoney Wallet : 065-320-0028        #    "
 echo -e "\033[35;1m #               { VPN / SSH }                  #    "
-echo -e "\033[0;32m #         BY : PeeRaPoN MueAnGChaN               #    "
-echo -e "\033[0;32m #    FB : https://m.me/Amkoonp       #    "
+echo -e "\033[0;32m #         BY : Kasikorn Pardee                 #    "
+echo -e "\033[0;32m #    FB : https://m.me/kasikorn03              #    "
 echo -e "\033[34;1m =============== OS-32 & 64-bit =================    "
 echo -e "\033[34;1m  ไอพีเซิฟ: $IP "
 echo ""
