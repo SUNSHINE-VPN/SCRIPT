@@ -104,7 +104,7 @@ echo ""
 echo ""
 
 #echo ""
-    ##wget -q -O /usr/bin/pass https://raw.githubusercontent.com/SUNSHINE-VPN/SCRIPT/master/PassKey.txt
+    ##wget -q -O /usr/bin/pass https://github.com/SUNSHINE-VPN/SCRIPT/blob/master/PassKey.txt
 #if ! grep -w -q $passwds /usr/bin/pass; then
 #clear
 #echo ""
